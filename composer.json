@@ -7,5 +7,10 @@
             "email": "farhannivtasija@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Farhannivta\\Depin\\": "src/"
+        }
+    },
     "require": {}
 }
