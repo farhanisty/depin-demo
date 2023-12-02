@@ -1,0 +1,11 @@
+{
+    "name": "farhannivta/depin",
+    "description": "dependency injection by farhannivta ramadhana",
+    "authors": [
+        {
+            "name": "Farhannivta",
+            "email": "farhannivtasija@gmail.com"
+        }
+    ],
+    "require": {}
+}
